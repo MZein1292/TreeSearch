@@ -5,6 +5,6 @@ The program will print a histogram at the end
 
 to run:
 
-`gcc tree.c -o tree
+`gcc tree.c -o tree`
 
  `./tree   /home/<YourUsername>/ 1000`
